@@ -2,10 +2,12 @@ body {
 	margin: 0;
 	font-family: Helvetica;
 	font-weight: 100;
+	background-color: #1A75D4;
 }
 
 h1 {
 	font-weight: 100;
+	color: white;
 }
 
 #logo{
